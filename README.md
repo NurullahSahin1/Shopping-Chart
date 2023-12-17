@@ -25,10 +25,6 @@ Click on the "Add to Cart" button next to each product to add it to your shoppin
 <p>
 In the shopping cart, click on the "Remove" or "Delete" button next to the product you want to remove.</p>
 
-<h3>Modify Quantity</h3>
-<p>
-Use the quantity input field in the shopping cart to adjust the quantity of a specific product.</p>
-
 <h3>Edit Product Details</h3>
 <p>
 Click on the "Edit" button to modify the details of a product, such as name, price, or any other relevant information.</p>
